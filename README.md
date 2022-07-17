@@ -1,8 +1,8 @@
-# Water Jub Challenge
+# Water Jug Challenge
 
 ## What is the challenge?
 
-The challenge has a full description located in this project, [click here](.water-jug-challenge.pdf) to access it.
+The challenge has a full description located in this project, [click here](water-jug-challenge.pdf) to access it.
 
 ## What do you need to run the project?
 
@@ -16,7 +16,7 @@ The challenge has a full description located in this project, [click here](.wate
 
 ## Routes Documentation
 
-After executing the project locally, you can access `http://localhost:8080/swagger` to see an OpenAPI documentation.
+After executing the project locally, you can access `http://localhost:3000/swagger` to see an OpenAPI documentation.
 
 ## Production
 
