@@ -6,12 +6,15 @@ The challenge has a full description located in this project, [click here](water
 
 ## What do you need to run the project?
 
+- Install [node](https://nodejs.org/en/download/)
+- Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable)
 - Install [Docker](https://docs.docker.com/engine/install/)
 - If you are using Linux, follow the instructions at [docker post-installation steps](https://docs.docker.com/engine/install/linux-postinstall/)
 - Install [Docker Compose](https://docs.docker.com/compose/install/)
 
 ## How to run the project?
 
+- Run `yarn` to install the dependencies
 - Execute `docker-compose up`
 
 ## Routes Documentation
